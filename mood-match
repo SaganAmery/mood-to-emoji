@@ -1,6 +1,0 @@
-git init
-git add mood_to_emoji.py
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/SaganAmery/mood-to-emoji.git
-git push -u origin main
