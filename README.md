@@ -1,6 +1,6 @@
 # Mood to Emoji 😊
 
-This is a beginner Python project that turns mood words into emojis!
+This is a Python project that turns mood words into emojis!
 
 ## How it works
 Run the script in your terminal. When it asks how you feel, type a mood like "happy" or "tired," and it will show you an emoji that matches.
