@@ -10,7 +10,7 @@ Run the script in your terminal. When it asks how you feel, type a mood like "ha
 Click the green **Code** button and select **Download ZIP**,
 unzip the folder,
 open a terminal and navigate to the unzipped folder,
-run the script using,
+run the script using
 
 ## Example
 ```
