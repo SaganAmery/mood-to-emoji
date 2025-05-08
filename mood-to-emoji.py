@@ -17,4 +17,4 @@ emoji_dict = {
 if mood in emoji_dict:
     print("Here’s your mood in emoji form:", emoji_dict[mood])
 else:
-    print("I don't know that mood yet, but ask my developer, Sagan, to add it. !")
+    print("I don't know that mood yet, but ask my developer, Sagan, to add it.")
